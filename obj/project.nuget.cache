@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P7HZal8QJvlADN6iRbWskdp24gjHdictKrlTmCYNFHHLd2Comet4wCQ6VU6LCXhsFoWjwqfs2LLpWpGrIpHkgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Afiq\\source\\repos\\AzureAPISample\\AzureAPISample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Afiq\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
